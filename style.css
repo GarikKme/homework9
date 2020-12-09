@@ -1,0 +1,30 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+.card-body {
+    background: #000;
+}
+.btn-outline-danger {
+    background: #dc3545;
+    color: #fff;
+}
+.btn-outline-danger:focus {
+    background: #dc3545;
+    color: #fff;
+    box-shadow: none;
+}
+
+.btn-outline-primary {
+    margin-bottom: 2px;
+    margin-right: 1px;
+    margin-left: 1px;
+    color: #fff;
+    border-color: #007bff;
+    background: #007bff;
+}
